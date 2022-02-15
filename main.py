@@ -1,5 +1,6 @@
 import random
 #Part A
+print("Part A")
 weeks = 16
 classes = 5
 tuition = 6000
