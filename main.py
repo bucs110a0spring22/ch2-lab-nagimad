@@ -1,4 +1,4 @@
-
+import random
 #Part A
 weeks = 16
 classes = 5
@@ -19,3 +19,8 @@ print(cost_per_class, type(cost_per_class))
 
 
 #Part B
+#list part B
+print("Part B")
+wow = ['hello', 20, 30, 40, 7.5]
+print (wow)
+print(random.choice(wow))
